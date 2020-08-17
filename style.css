@@ -1,0 +1,18 @@
+main{
+  font-style: Lato;
+}
+h1{
+  color: #de8852;
+}
+h2{
+  color: #831dd1;
+}
+.first{
+  color: #fa05a4;
+}
+ul{
+  list-style-type: square;
+}
+ol{
+  list-style-type: upper-roman;
+}
